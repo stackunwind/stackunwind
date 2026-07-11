@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Dusai's GitHub stats](https://github-stats-extended.vercel.app/api?username=stackunwind&theme=radical)
+![Dusai's GitHub stats](https://github-stats-extended.vercel.app/api?username=stackunwind)
 <!--
 **stackunwind/stackunwind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
